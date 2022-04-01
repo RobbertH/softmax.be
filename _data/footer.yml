@@ -1,39 +1,39 @@
 - links:
-  - name: Pricing
+  - name: 
     link: /pricing/
-  - name: Blog
+  - name: 
     link: /blog/
-  - name: About
+  - name: 
     link: /about/
-  - name: Contact
+  - name: 
     link: /contact/
 - links:
-  - name: Login
+  - name: 
     link: /
     new_window: true
-  - name: Sign Up
+  - name: 
     link: /
     new_window: true
-  - name: Docs
+  - name: 
     link: /
     new_window: true
-  - name: Status
+  - name: 
     link: /
     new_window: true
 - links:
-  - name: Facebook
+  - name: 
     link: https://facebook.com/
     new_window: true
-    social_icon: Facebook
-  - name: Twitter
+    social_icon: 
+  - name: 
     link: https://twitter.com/
-    social_icon: Twitter
+    social_icon: 
     new_window: true
-  - name: YouTube
+  - name: 
     link: https://youtube.com/
-    social_icon: YouTube
+    social_icon: 
     new_window: true
-  - name: RSS
+  - name: 
     link: /feed.xml
-    social_icon: RSS
+    social_icon: 
     new_window: false
