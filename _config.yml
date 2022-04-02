@@ -5,11 +5,11 @@ title: Softmax
 url: "https://softmax.be"
 baseurl:
 google_analytics_key:
-google_maps_javascript_api_key:
+google_maps_javascript_api_key: AIzaSyDx3iVjjWtgM8IikKC0SE1QUA877QDjo7o
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /images/logo.jpg
+logo: /images/softmax.png
 description: IT and engineering consultancy
 author:
   name:
