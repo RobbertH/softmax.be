@@ -1,8 +1,8 @@
 - links:
-  - name: 
-    link: /pricing/
-  - name: 
-    link: /blog/
+  #  - name: 
+  #    link: /pricing/
+  #  - name: 
+  #    link: /blog/
   - name: 
     link: /about/
   - name: 
@@ -21,10 +21,10 @@
     link: /
     new_window: true
 - links:
-  - name: 
-    link: https://facebook.com/
+  - name: LinkedIn
+    link: https://linkedin.com/company/softmax-be
     new_window: true
-    social_icon: 
+    social_icon: LinkedIn
   - name: 
     link: https://twitter.com/
     social_icon: 
