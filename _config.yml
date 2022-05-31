@@ -34,15 +34,15 @@ paginate_path: "/blog/:num/"
 permalink: pretty
 
 defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      _options:
-        content:
-          width: 1500
-          height: 2500
+  #  - scope:
+  #      path: ""
+  #      type: "posts"
+  #    values:
+  #      layout: "post"
+  #      _options:
+  #        content:
+  #          width: 1500
+  #          height: 2500
   - scope:
       path: ""
       type: "staff_members"
